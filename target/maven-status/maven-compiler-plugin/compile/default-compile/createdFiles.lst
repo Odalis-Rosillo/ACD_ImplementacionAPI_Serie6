@@ -1,0 +1,6 @@
+edu\unl\cc\succession\business\EvenNumberCalculatorUpToLimit.class
+edu\unl\cc\succession\business\PrimeNumberCalculatorUpToLimit.class
+edu\unl\cc\succession\domain\Printable.class
+edu\unl\cc\succession\domain\Successionable.class
+edu\unl\cc\succession\Main.class
+edu\unl\cc\succession\business\EvenRootPairNumberCalculatorUpToLimit.class
