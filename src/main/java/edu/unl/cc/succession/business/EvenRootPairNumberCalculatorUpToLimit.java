@@ -6,6 +6,7 @@ import edu.unl.cc.succession.domain.Successionable;
  * Wilson Palma, Emilio Flores, Fernando Patiño, Francis Valdiviezo, Odalis Rosillo (Encargada)
  * Representa el cálculo de la Serie números Pares hasta Limite N
  * S = 1^(1/2) + 3^(1/4) + 5^(1/6) + 7^(1/8) + 11^(1/10) + 13^(1/12) ... + N):
+ * https://github.com/Odalis-Rosillo/ACD_ImplementacionAPI_Serie6 
  
  */
 
